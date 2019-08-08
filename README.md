@@ -1,4 +1,4 @@
-# Unicorn LoadBalancer Docker Image 
+# Unicorn Transcoder Docker Image 
 
 ## Description
 What is **[UnicornFFMPEG](https://github.com/UnicornTranscoder/UnicornFFMPEG)**?
